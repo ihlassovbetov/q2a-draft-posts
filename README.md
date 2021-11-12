@@ -6,10 +6,9 @@
 <ul class="first">
 	<b>Plugin Functionality:</b>
 	<li>Plugin creates a table in database to store data.</li>
-	<li>Admin sets which user levels can save their drafts.</li>
-	<li>Admin sets which user levels can see others drafts.</li>
-	<li>Admin sets inactiveness time (in seconds) which will trigger autosave of drafts in ask page.</li>
-	<li>Users can also manually save their drafts via Draft Button in ask page</li>
+	<li>Users can manually save their drafts via Draft Button in ask page</li>
+	<li>There is also an automatic draft saving feature while users are typing content</li>
+	<li>Automatic savings and drafting posts while typing will prevent your contents to be lost. It is usefull especially for long posts.</li>
 	<li>Users can load or delete their saved drafts anytime (it is in users' sub navigation page)</li>
 	<br/>
 	<img src="https://ihlassovbetov.github.io/assets/plugin-ss/drafts/img-2.png" width="500px" height="auto" />
